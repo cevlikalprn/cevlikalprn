@@ -1,6 +1,6 @@
 ### Hi there, I'm Alperen 👋
 
-I'm interested in Android development and currently learning Jetpack Compose
+Android developer at LeanScale
 
 For my articles:
 
