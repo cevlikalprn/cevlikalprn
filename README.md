@@ -1,6 +1,6 @@
 ### Hi there, I'm Alperen 👋
 
-Android developer at LeanScale
+Android developer at Dca Food
 
 For my articles:
 
