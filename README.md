@@ -1,15 +1,6 @@
 ### Hi there, I'm Alperen 👋
 
-Android developer at Dca Food
+Android developer at Digybite
 
-For my articles:
-
+- [Linkedin](https://www.linkedin.com/in/cevlikalprn/)
 - [Medium](https://devcalprn.medium.com/)
-- [Mobiler](https://www.mobiler.dev/profile/devcalprn/blog-posts)
-
-My Profiles:
-
-- [Linkedin](https://www.linkedin.com/in/cevlikalprn/) <br>
-- [Twitter](https://twitter.com/cevlikalprn)
-
-
